@@ -15,7 +15,21 @@
 - Hoe p-bit connecteren in RL verhaal
 
 # To discuss
-- 
+- MNIST paper (Training Deep Boltzmann Networks with Sparse Ising Machines)
+  - algo:
+    - Model + image bias -> sample via p-bits
+    - sample model
+    - pass weights aan via formules
+  - persistent cd: start vanaf vorige sample state
+  - visible bits: image + label split voor generation/classification
 
+- RL
+  - nog op te frissen zit ver, moet zelf nog zoeken
+
+- plan
+  - reinforcement learning herbekijken + quantum voorbeeld
+  - RBM/DBM experimenten proberen
+    - gibbs sampling alsof het met p-computer is, maar met cpu berekenen
+    - uitzoeken connectie RL
 # Meeting Notes
 - 
