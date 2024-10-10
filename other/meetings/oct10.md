@@ -22,6 +22,7 @@
     - pass weights aan via formules
   - persistent cd: start vanaf vorige sample state
   - visible bits: image + label split voor generation/classification
+  - ? wat wordt bedoelt met sweeps? sample van volledig model?
 
 - RL
   - nog op te frissen zit ver, moet zelf nog zoeken
@@ -31,5 +32,7 @@
   - RBM/DBM experimenten proberen
     - gibbs sampling alsof het met p-computer is, maar met cpu berekenen
     - uitzoeken connectie RL
+
+- Volgende week geen meeting (chaotische week)
 # Meeting Notes
 - 
