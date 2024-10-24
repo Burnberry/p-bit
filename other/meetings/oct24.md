@@ -1,5 +1,8 @@
 # To Do
-- ############### LIEVEN STUREN VOOR PLATO #########################
+- wat kan p-bits nu
+  - overview recente experimenten
+  - overview bestaande implementaties
+
 - https://arxiv.org/abs/2201.02135
 - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
 - http://incompleteideas.net/book/the-book-2nd.html chapter 3, 4, 5, 6
